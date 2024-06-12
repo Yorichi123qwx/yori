@@ -50,7 +50,7 @@ import { createHash } from 'crypto'
  };
  handler.help = ['main']
  handler.tags = ['group']
- handler.command = ['مهام','المهام'] 
+ handler.command = ['المعلومات','معلومات'] 
 
  export default handler
  function clockString(ms) {
